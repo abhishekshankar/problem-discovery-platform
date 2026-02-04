@@ -1,0 +1,8 @@
+.env
+output/
+__pycache__/
+*.pyc
+*.pyo
+data/devvit_signals.jsonl
+output/problem_discovery.sqlite
+.DS_Store
