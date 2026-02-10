@@ -1,1 +1,4 @@
-# No external dependencies yet. This project currently uses Python standard library only.
+requests==2.32.3
+beautifulsoup4==4.12.3
+readability-lxml==0.8.1
+psycopg2-binary==2.9.9
