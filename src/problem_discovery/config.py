@@ -9,8 +9,10 @@ DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 DB_PATH = OUTPUT_DIR / "problem_discovery.sqlite"
 ENV_PATH = ROOT / ".env"
+# Package-local .env (src/problem_discovery/.env) as fallback; repo-root .env overrides; os.environ wins.
+PACKAGE_ENV_PATH = Path(__file__).resolve().parent / ".env"
 
-ENV = {**load_env(ENV_PATH), **os.environ}
+ENV = {**load_env(PACKAGE_ENV_PATH), **load_env(ENV_PATH), **os.environ}
 
 
 def get_env(key: str, default: str | None = None) -> str | None:
@@ -47,3 +49,6 @@ class SourceConfig:
     indeed_country: str = get_env("INDEED_COUNTRY", "us") or "us"
     indeed_domain: str = get_env("INDEED_DOMAIN", "www.indeed.com") or "www.indeed.com"
     indeed_sort: str = get_env("INDEED_SORT", "date") or "date"
+    reddit_client_id: str | None = get_env("REDDIT_CLIENT_ID")
+    reddit_client_secret: str | None = get_env("REDDIT_CLIENT_SECRET")
+    reddit_user_agent: str = get_env("REDDIT_USER_AGENT", "problem-discovery-ivf/1.0") or "problem-discovery-ivf/1.0"

@@ -1,0 +1,75 @@
+# PRD scheduler — GitHub Actions (4-hourly / daily / weekly schedules)
+name: signal-cron
+
+on:
+  schedule:
+    - cron: "10 */4 * * *" # 4-hourly
+    - cron: "20 2 * * *" # daily
+    - cron: "30 5 * * 0" # weekly Sunday
+  workflow_dispatch: {}
+
+jobs:
+  four_hourly:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '10 */4 * * *'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        cmd: ["extract --limit 150", "cluster"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONPATH: ${{ github.workspace }}/..
+        run: python -m problem_discovery.signal ${{ matrix.cmd }}
+
+  daily:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '20 2 * * *'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        cmd:
+          - archive-stale-briefs
+          - regen-stale-briefs --limit 15
+          - collector-health
+          - digest
+          - source-rebalance
+          - propose-patterns
+          - exploration-cluster
+          - cluster-version-hygiene
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONPATH: ${{ github.workspace }}/..
+        run: python -m problem_discovery.signal ${{ matrix.cmd }}
+
+  weekly:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '30 5 * * 0'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        cmd: [cluster-hygiene, calibrate]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONPATH: ${{ github.workspace }}/..
+        run: python -m problem_discovery.signal ${{ matrix.cmd }}

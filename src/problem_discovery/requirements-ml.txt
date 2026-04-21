@@ -1,0 +1,6 @@
+# Fine-tune Pass-2 classifier (PRD §8.1) — optional; large download.
+-r requirements.txt
+torch>=2.1
+transformers>=4.36
+datasets>=2.14
+accelerate>=0.25

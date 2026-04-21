@@ -1,0 +1,16 @@
+psycopg[binary]>=3.1
+boto3>=1.34
+pgvector>=0.3
+anthropic>=0.40
+sentence-transformers>=3.0
+numpy>=1.26
+pandas>=2.0
+streamlit>=1.40
+praw>=7.7
+bertopic>=0.16
+scikit-learn>=1.4
+hdbscan>=0.8
+requests>=2.31
+feedparser>=6.0
+apscheduler>=3.10
+# Classifier training (distilBERT): pip install -r requirements-ml.txt

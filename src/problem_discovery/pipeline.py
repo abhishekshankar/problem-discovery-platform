@@ -24,6 +24,7 @@ from .agents.consequence_mapper import AgentI
 from .agents.contrarian_scanner import AgentJ
 from .agents.triangulator import SignalTriangulator
 from .agents.skeptic_full import AgentEFull
+from .agents.ivf_reddit_collector import IVFRedditCollector
 from .memory.storage import Storage
 from .config import SourceConfig
 from .g2_client import G2Client
@@ -48,6 +49,70 @@ class Pipeline:
             return fallback
         with path.open("r", encoding="utf-8") as handle:
             return json.load(handle)
+
+    def run_ivf_phase1(
+        self,
+        *,
+        subreddits: list[str],
+        months_back: int = 24,
+        max_records_per_subreddit: int = 100_000,
+        use_pushshift: bool = True,
+        use_praw: bool = False,
+    ) -> dict[str, Any]:
+        run_id = str(uuid.uuid4())
+        collector = IVFRedditCollector(
+            subreddits=subreddits,
+            months_back=months_back,
+            max_records_per_subreddit=max_records_per_subreddit,
+            use_pushshift=use_pushshift,
+            use_praw=use_praw,
+            praw_client_id=self.sources.reddit_client_id,
+            praw_client_secret=self.sources.reddit_client_secret,
+            praw_user_agent=self.sources.reddit_user_agent,
+        )
+        collected = collector.collect()
+        signals = collected.get("signals", [])
+        before_count = self.storage.count_reddit_corpus_rows(subreddits)
+        inserted = self.storage.upsert_reddit_signals(signals)
+        after_count = self.storage.count_reddit_corpus_rows(subreddits)
+        net_new = max(0, after_count - before_count)
+        deduplicated = max(0, len(signals) - net_new)
+        qa = self.storage.build_reddit_ingestion_qa(subreddits)
+
+        qa_targets = {
+            "stage_hint_post_rate_target_pct": 40.0,
+            "comment_parent_link_rate_target_pct": 85.0,
+            "null_rate_target_pct_max": 0.5,
+            "coverage_gap_target_days_max": 7,
+        }
+        qa_status = {
+            "stage_hint_post_rate_ok": qa.get("stage_hint_post_rate", 0.0) >= qa_targets["stage_hint_post_rate_target_pct"],
+            "comment_parent_link_rate_ok": qa.get("comment_parent_link_rate", 0.0) >= qa_targets["comment_parent_link_rate_target_pct"],
+            "null_rates_ok": all(value <= qa_targets["null_rate_target_pct_max"] for value in qa.get("null_rates", {}).values()),
+            "coverage_ok": all(len(gaps) == 0 for gaps in qa.get("coverage_gaps_gt_7d", {}).values()),
+        }
+
+        summary = {
+            "signals_collected": len(signals),
+            "signals_inserted": inserted,
+            "signals_net_new": net_new,
+            "signals_deduplicated": deduplicated,
+            "subreddits": subreddits,
+            "months_back": months_back,
+            "source_counts": collected.get("source_counts", {}),
+            "window": collected.get("window", {}),
+            "qa_targets": qa_targets,
+            "qa_status": qa_status,
+        }
+        self.storage.insert_run(run_id, "IVF_REDDIT_PHASE1", utc_now(), summary)
+
+        return {
+            "run_id": run_id,
+            "pipeline": "ivf_phase1_ingestion",
+            "run_timestamp": utc_now(),
+            "summary": summary,
+            "qa_report": qa,
+        }
 
     def run(
         self,

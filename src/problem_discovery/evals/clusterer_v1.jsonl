@@ -1,0 +1,300 @@
+{"problem_id": "cp_0000", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v0]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0001", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v1]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0002", "text": "EHR data re-entry wastes nursing time every week. The workflow is painful and manual. [v2]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0003", "text": "EHR data re-entry wastes nursing time every week. Nurses hate the extra clicks. [v3]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0004", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v4]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0005", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v5]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0006", "text": "EHR data re-entry wastes nursing time every week. Leadership wants a dashboard but data is siloed. [v6]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0007", "text": "EHR data re-entry wastes nursing time every week. Leadership wants a dashboard but data is siloed. [v7]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0008", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v8]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0009", "text": "EHR data re-entry wastes nursing time every week. Nurses hate the extra clicks. [v9]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0010", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v10]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0011", "text": "EHR data re-entry wastes nursing time every week. The workflow is painful and manual. [v11]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0012", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v12]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0013", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v13]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0014", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v14]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0015", "text": "EHR data re-entry wastes nursing time every week. Nurses hate the extra clicks. [v15]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0016", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v16]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0017", "text": "EHR data re-entry wastes nursing time every week. The workflow is painful and manual. [v17]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0018", "text": "EHR data re-entry wastes nursing time every week. The workflow is painful and manual. [v18]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0019", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v19]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0020", "text": "EHR data re-entry wastes nursing time every week. Nurses hate the extra clicks. [v20]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0021", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v21]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0022", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v22]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0023", "text": "EHR data re-entry wastes nursing time every week. Leadership wants a dashboard but data is siloed. [v23]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0024", "text": "EHR data re-entry wastes nursing time every week. The workflow is painful and manual. [v24]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0025", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v25]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0026", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v26]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0027", "text": "EHR data re-entry wastes nursing time every week. Nurses hate the extra clicks. [v27]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0028", "text": "EHR data re-entry wastes nursing time every week. We tried three vendors and still patch with Excel. [v28]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0029", "text": "EHR data re-entry wastes nursing time every week. Compliance review slows every release. [v29]", "gold_cluster_id": "0", "predicted_cluster_id": "5"}
+{"problem_id": "cp_0030", "text": "prior authorization fax workflows for fertility meds. The workflow is painful and manual. [v30]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0031", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v31]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0032", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v32]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0033", "text": "prior authorization fax workflows for fertility meds. The workflow is painful and manual. [v33]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0034", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v34]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0035", "text": "prior authorization fax workflows for fertility meds. We tried three vendors and still patch with Excel. [v35]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0036", "text": "prior authorization fax workflows for fertility meds. Nurses hate the extra clicks. [v36]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0037", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v37]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0038", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v38]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0039", "text": "prior authorization fax workflows for fertility meds. Nurses hate the extra clicks. [v39]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0040", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v40]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0041", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v41]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0042", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v42]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0043", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v43]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0044", "text": "prior authorization fax workflows for fertility meds. We tried three vendors and still patch with Excel. [v44]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0045", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v45]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0046", "text": "prior authorization fax workflows for fertility meds. Nurses hate the extra clicks. [v46]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0047", "text": "prior authorization fax workflows for fertility meds. Nurses hate the extra clicks. [v47]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0048", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v48]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0049", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v49]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0050", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v50]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0051", "text": "prior authorization fax workflows for fertility meds. The workflow is painful and manual. [v51]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0052", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v52]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0053", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v53]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0054", "text": "prior authorization fax workflows for fertility meds. We tried three vendors and still patch with Excel. [v54]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0055", "text": "prior authorization fax workflows for fertility meds. Nurses hate the extra clicks. [v55]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0056", "text": "prior authorization fax workflows for fertility meds. We tried three vendors and still patch with Excel. [v56]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0057", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v57]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0058", "text": "prior authorization fax workflows for fertility meds. Compliance review slows every release. [v58]", "gold_cluster_id": "1", "predicted_cluster_id": "9"}
+{"problem_id": "cp_0059", "text": "prior authorization fax workflows for fertility meds. Leadership wants a dashboard but data is siloed. [v59]", "gold_cluster_id": "1", "predicted_cluster_id": "6"}
+{"problem_id": "cp_0060", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v60]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0061", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v61]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0062", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v62]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0063", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v63]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0064", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v64]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0065", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v65]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0066", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v66]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0067", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v67]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0068", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v68]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0069", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v69]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0070", "text": "patient scheduling double-booking between Athena and paper. Nurses hate the extra clicks. [v70]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0071", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v71]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0072", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v72]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0073", "text": "patient scheduling double-booking between Athena and paper. Nurses hate the extra clicks. [v73]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0074", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v74]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0075", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v75]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0076", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v76]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0077", "text": "patient scheduling double-booking between Athena and paper. Leadership wants a dashboard but data is siloed. [v77]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0078", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v78]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0079", "text": "patient scheduling double-booking between Athena and paper. Nurses hate the extra clicks. [v79]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0080", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v80]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0081", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v81]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0082", "text": "patient scheduling double-booking between Athena and paper. Leadership wants a dashboard but data is siloed. [v82]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0083", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v83]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0084", "text": "patient scheduling double-booking between Athena and paper. Nurses hate the extra clicks. [v84]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0085", "text": "patient scheduling double-booking between Athena and paper. We tried three vendors and still patch with Excel. [v85]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0086", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v86]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0087", "text": "patient scheduling double-booking between Athena and paper. Compliance review slows every release. [v87]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0088", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v88]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0089", "text": "patient scheduling double-booking between Athena and paper. The workflow is painful and manual. [v89]", "gold_cluster_id": "2", "predicted_cluster_id": "0"}
+{"problem_id": "cp_0090", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v90]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0091", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v91]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0092", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v92]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0093", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v93]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0094", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v94]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0095", "text": "clinical trial recruitment CRM is spreadsheet hell. Leadership wants a dashboard but data is siloed. [v95]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0096", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v96]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0097", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v97]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0098", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v98]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0099", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v99]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0100", "text": "clinical trial recruitment CRM is spreadsheet hell. Leadership wants a dashboard but data is siloed. [v100]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0101", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v101]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0102", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v102]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0103", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v103]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0104", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v104]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0105", "text": "clinical trial recruitment CRM is spreadsheet hell. The workflow is painful and manual. [v105]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0106", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v106]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0107", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v107]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0108", "text": "clinical trial recruitment CRM is spreadsheet hell. The workflow is painful and manual. [v108]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0109", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v109]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0110", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v110]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0111", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v111]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0112", "text": "clinical trial recruitment CRM is spreadsheet hell. Compliance review slows every release. [v112]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0113", "text": "clinical trial recruitment CRM is spreadsheet hell. Leadership wants a dashboard but data is siloed. [v113]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0114", "text": "clinical trial recruitment CRM is spreadsheet hell. Leadership wants a dashboard but data is siloed. [v114]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0115", "text": "clinical trial recruitment CRM is spreadsheet hell. The workflow is painful and manual. [v115]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0116", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v116]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0117", "text": "clinical trial recruitment CRM is spreadsheet hell. Nurses hate the extra clicks. [v117]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0118", "text": "clinical trial recruitment CRM is spreadsheet hell. We tried three vendors and still patch with Excel. [v118]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0119", "text": "clinical trial recruitment CRM is spreadsheet hell. The workflow is painful and manual. [v119]", "gold_cluster_id": "3", "predicted_cluster_id": "1"}
+{"problem_id": "cp_0120", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v120]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0121", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v121]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0122", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v122]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0123", "text": "lab result routing to wrong chart in multi-site clinics. Nurses hate the extra clicks. [v123]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0124", "text": "lab result routing to wrong chart in multi-site clinics. Compliance review slows every release. [v124]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0125", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v125]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0126", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v126]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0127", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v127]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0128", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v128]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0129", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v129]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0130", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v130]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0131", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v131]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0132", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v132]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0133", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v133]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0134", "text": "lab result routing to wrong chart in multi-site clinics. Compliance review slows every release. [v134]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0135", "text": "lab result routing to wrong chart in multi-site clinics. Compliance review slows every release. [v135]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0136", "text": "lab result routing to wrong chart in multi-site clinics. Nurses hate the extra clicks. [v136]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0137", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v137]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0138", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v138]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0139", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v139]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0140", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v140]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0141", "text": "lab result routing to wrong chart in multi-site clinics. Leadership wants a dashboard but data is siloed. [v141]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0142", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v142]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0143", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v143]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0144", "text": "lab result routing to wrong chart in multi-site clinics. Nurses hate the extra clicks. [v144]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0145", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v145]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0146", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v146]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0147", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v147]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0148", "text": "lab result routing to wrong chart in multi-site clinics. We tried three vendors and still patch with Excel. [v148]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0149", "text": "lab result routing to wrong chart in multi-site clinics. The workflow is painful and manual. [v149]", "gold_cluster_id": "4", "predicted_cluster_id": "3"}
+{"problem_id": "cp_0150", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v150]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0151", "text": "HIPAA-compliant patient messaging gaps. Leadership wants a dashboard but data is siloed. [v151]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0152", "text": "HIPAA-compliant patient messaging gaps. The workflow is painful and manual. [v152]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0153", "text": "HIPAA-compliant patient messaging gaps. The workflow is painful and manual. [v153]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0154", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v154]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0155", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v155]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0156", "text": "HIPAA-compliant patient messaging gaps. Leadership wants a dashboard but data is siloed. [v156]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0157", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v157]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0158", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v158]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0159", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v159]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0160", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v160]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0161", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v161]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0162", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v162]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0163", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v163]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0164", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v164]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0165", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v165]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0166", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v166]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0167", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v167]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0168", "text": "HIPAA-compliant patient messaging gaps. The workflow is painful and manual. [v168]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0169", "text": "HIPAA-compliant patient messaging gaps. The workflow is painful and manual. [v169]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0170", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v170]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0171", "text": "HIPAA-compliant patient messaging gaps. Leadership wants a dashboard but data is siloed. [v171]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0172", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v172]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0173", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v173]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0174", "text": "HIPAA-compliant patient messaging gaps. The workflow is painful and manual. [v174]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0175", "text": "HIPAA-compliant patient messaging gaps. Leadership wants a dashboard but data is siloed. [v175]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0176", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v176]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0177", "text": "HIPAA-compliant patient messaging gaps. Nurses hate the extra clicks. [v177]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0178", "text": "HIPAA-compliant patient messaging gaps. Compliance review slows every release. [v178]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0179", "text": "HIPAA-compliant patient messaging gaps. We tried three vendors and still patch with Excel. [v179]", "gold_cluster_id": "5", "predicted_cluster_id": "2"}
+{"problem_id": "cp_0180", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v180]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0181", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v181]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0182", "text": "inventory tracking for IVF medication cold chain. The workflow is painful and manual. [v182]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0183", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v183]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0184", "text": "inventory tracking for IVF medication cold chain. The workflow is painful and manual. [v184]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0185", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v185]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0186", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v186]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0187", "text": "inventory tracking for IVF medication cold chain. Nurses hate the extra clicks. [v187]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0188", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v188]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0189", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v189]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0190", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v190]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0191", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v191]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0192", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v192]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0193", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v193]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0194", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v194]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0195", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v195]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0196", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v196]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0197", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v197]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0198", "text": "inventory tracking for IVF medication cold chain. The workflow is painful and manual. [v198]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0199", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v199]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0200", "text": "inventory tracking for IVF medication cold chain. Nurses hate the extra clicks. [v200]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0201", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v201]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0202", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v202]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0203", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v203]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0204", "text": "inventory tracking for IVF medication cold chain. Leadership wants a dashboard but data is siloed. [v204]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0205", "text": "inventory tracking for IVF medication cold chain. The workflow is painful and manual. [v205]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0206", "text": "inventory tracking for IVF medication cold chain. We tried three vendors and still patch with Excel. [v206]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0207", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v207]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0208", "text": "inventory tracking for IVF medication cold chain. The workflow is painful and manual. [v208]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0209", "text": "inventory tracking for IVF medication cold chain. Compliance review slows every release. [v209]", "gold_cluster_id": "6", "predicted_cluster_id": "7"}
+{"problem_id": "cp_0210", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v210]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0211", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v211]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0212", "text": "insurance verification bots fail on rare codes. Leadership wants a dashboard but data is siloed. [v212]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0213", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v213]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0214", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v214]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0215", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v215]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0216", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v216]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0217", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v217]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0218", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v218]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0219", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v219]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0220", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v220]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0221", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v221]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0222", "text": "insurance verification bots fail on rare codes. Leadership wants a dashboard but data is siloed. [v222]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0223", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v223]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0224", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v224]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0225", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v225]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0226", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v226]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0227", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v227]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0228", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v228]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0229", "text": "insurance verification bots fail on rare codes. We tried three vendors and still patch with Excel. [v229]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0230", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v230]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0231", "text": "insurance verification bots fail on rare codes. Leadership wants a dashboard but data is siloed. [v231]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0232", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v232]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0233", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v233]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0234", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v234]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0235", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v235]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0236", "text": "insurance verification bots fail on rare codes. Nurses hate the extra clicks. [v236]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0237", "text": "insurance verification bots fail on rare codes. Compliance review slows every release. [v237]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0238", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v238]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0239", "text": "insurance verification bots fail on rare codes. The workflow is painful and manual. [v239]", "gold_cluster_id": "7", "predicted_cluster_id": "4"}
+{"problem_id": "cp_0240", "text": "telehealth no-show follow-up automation. We tried three vendors and still patch with Excel. [v240]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0241", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v241]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0242", "text": "telehealth no-show follow-up automation. We tried three vendors and still patch with Excel. [v242]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0243", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v243]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0244", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v244]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0245", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v245]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0246", "text": "telehealth no-show follow-up automation. We tried three vendors and still patch with Excel. [v246]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0247", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v247]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0248", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v248]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0249", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v249]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0250", "text": "telehealth no-show follow-up automation. Nurses hate the extra clicks. [v250]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0251", "text": "telehealth no-show follow-up automation. The workflow is painful and manual. [v251]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0252", "text": "telehealth no-show follow-up automation. We tried three vendors and still patch with Excel. [v252]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0253", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v253]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0254", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v254]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0255", "text": "telehealth no-show follow-up automation. The workflow is painful and manual. [v255]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0256", "text": "telehealth no-show follow-up automation. Nurses hate the extra clicks. [v256]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0257", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v257]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0258", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v258]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0259", "text": "telehealth no-show follow-up automation. The workflow is painful and manual. [v259]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0260", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v260]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0261", "text": "telehealth no-show follow-up automation. The workflow is painful and manual. [v261]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0262", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v262]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0263", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v263]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0264", "text": "telehealth no-show follow-up automation. We tried three vendors and still patch with Excel. [v264]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0265", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v265]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0266", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v266]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0267", "text": "telehealth no-show follow-up automation. Compliance review slows every release. [v267]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0268", "text": "telehealth no-show follow-up automation. The workflow is painful and manual. [v268]", "gold_cluster_id": "8", "predicted_cluster_id": "11"}
+{"problem_id": "cp_0269", "text": "telehealth no-show follow-up automation. Leadership wants a dashboard but data is siloed. [v269]", "gold_cluster_id": "8", "predicted_cluster_id": "10"}
+{"problem_id": "cp_0270", "text": "referral loop closure between PCP and specialists. Compliance review slows every release. [v270]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0271", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v271]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0272", "text": "referral loop closure between PCP and specialists. Compliance review slows every release. [v272]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0273", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v273]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0274", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v274]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0275", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v275]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0276", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v276]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0277", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v277]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0278", "text": "referral loop closure between PCP and specialists. Nurses hate the extra clicks. [v278]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0279", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v279]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0280", "text": "referral loop closure between PCP and specialists. Compliance review slows every release. [v280]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0281", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v281]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0282", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v282]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0283", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v283]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0284", "text": "referral loop closure between PCP and specialists. Nurses hate the extra clicks. [v284]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0285", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v285]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0286", "text": "referral loop closure between PCP and specialists. Compliance review slows every release. [v286]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0287", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v287]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0288", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v288]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0289", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v289]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0290", "text": "referral loop closure between PCP and specialists. Nurses hate the extra clicks. [v290]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0291", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v291]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0292", "text": "referral loop closure between PCP and specialists. Nurses hate the extra clicks. [v292]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0293", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v293]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0294", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v294]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0295", "text": "referral loop closure between PCP and specialists. The workflow is painful and manual. [v295]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0296", "text": "referral loop closure between PCP and specialists. We tried three vendors and still patch with Excel. [v296]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0297", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v297]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0298", "text": "referral loop closure between PCP and specialists. Nurses hate the extra clicks. [v298]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}
+{"problem_id": "cp_0299", "text": "referral loop closure between PCP and specialists. Leadership wants a dashboard but data is siloed. [v299]", "gold_cluster_id": "9", "predicted_cluster_id": "8"}

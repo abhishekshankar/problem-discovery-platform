@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from enum import Enum
 from typing import Any
 
 
@@ -91,3 +92,36 @@ class FinalOutput:
     top_opportunities: list[FinalOpportunity]
     memory_updates: dict[str, Any]
 
+
+class IVFStage(str, Enum):
+    DIAGNOSIS = "diagnosis"
+    FINANCE = "finance"
+    STIMS = "stims"
+    RETRIEVAL = "retrieval"
+    FERTILIZATION = "fertilization"
+    TRANSFER = "transfer"
+    TWW_BETA = "tww_beta"
+
+
+@dataclass
+class RedditSignal:
+    signal_id: str
+    source_subreddit: str
+    signal_type: str
+    created_utc: str
+    text: str
+    thread_id: str
+    thread_depth: int
+    score: int | None
+    upvote_ratio: float | None
+    num_comments: int | None
+    permalink: str
+    ivf_stage_hint: str | None
+    specificity_score: float | None = None
+    ssm_stage: str | None = None
+    has_workaround: bool | None = None
+    workaround_type: str | None = None
+    has_competitor_churn: bool | None = None
+    economic_equiv_value: float | None = None
+    bdm_adjusted_wtp: float | None = None
+    author_hash: str | None = None

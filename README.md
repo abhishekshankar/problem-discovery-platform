@@ -26,6 +26,21 @@ PYTHONPATH=src python3 -m problem_discovery.ingest_server --signal-path data/dev
 python3 run.py --niche "Property Management" --phase all --use-devvit --devvit-signal-path data/devvit_signals.jsonl
 ```
 
+## IVF Phase 1 ingestion (historical + live-ready schema)
+Run ingestion/normalization/QA only, without downstream scoring:
+```bash
+python3 run.py --ivf-phase1
+```
+
+Optional controls:
+```bash
+# Disable Pushshift fetch (dry-run pipeline shape)
+python3 run.py --ivf-phase1 --ivf-no-pushshift
+
+# Enable PRAW live fetch (requires Reddit OAuth values in .env)
+python3 run.py --ivf-phase1 --ivf-use-praw
+```
+
 ## Configuration
 Create a `.env` file at repo root (see `.env.example`).
 
@@ -37,4 +52,3 @@ Create a `.env` file at repo root (see `.env.example`).
 ## Notes
 - If G2 is not configured, Agent B uses mock signals.
 - If HasData is not configured, Agent C uses mock signals.
-

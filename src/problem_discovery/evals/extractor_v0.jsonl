@@ -1,0 +1,2 @@
+{"raw_text": "Is there a tool that tracks IVF medication side effects without using a spreadsheet? We re-enter everything weekly.", "label_is_problem": true, "label_specificity": 8, "label_layer": "frustrated", "label_wtp": "weak", "source": "example"}
+{"raw_text": "Just had a great weekend at the beach.", "label_is_problem": false, "label_specificity": 1, "label_layer": "unformed", "label_wtp": "none", "source": "example"}
